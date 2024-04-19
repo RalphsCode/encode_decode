@@ -1,0 +1,5 @@
+Hi, this is Ralph, writing using ASCII encription.
+This is not very secure.
+But it fun to play with.
+If you are reading this, my decoder worked.
+Delete this file immediatly!
